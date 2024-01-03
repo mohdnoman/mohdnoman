@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohd Noman</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohdnoman" alt="mohdnoman" /></a> </p>
-
 - 🌱 I’m currently learning **React.js and DSA**
 
 - 👯 I’m looking to collaborate on **frontend projects**
