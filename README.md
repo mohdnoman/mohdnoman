@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **frontend projects**
 
-- 👨‍💻 All of my projects are available at [https://nomansportfolio.netlify.app](https://nomansportfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [https://nomans-portfolio.vercel.app](https://nomans-portfolio.vercel.app)
 
 - 💬 Ask me about **frontend development**
 
